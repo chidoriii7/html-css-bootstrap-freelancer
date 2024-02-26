@@ -1,0 +1,18 @@
+.top-page {
+    background-color: #2C3E50;
+    color: white;
+}
+
+.hero, .about {
+    background-color: #1abc9c;
+    color: white;
+}
+
+.portfolio {
+    
+}
+
+.bottom-page {
+    color: white;
+    background-color: #3a546d;
+}
